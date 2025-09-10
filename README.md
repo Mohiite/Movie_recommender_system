@@ -1,0 +1,2 @@
+# Movie_recommender_system
+A movie recommendation system is a type of information filtering system that predicts user preferences and suggests movies they're likely to enjoy.
